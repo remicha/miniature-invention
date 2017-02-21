@@ -1,2 +1,2 @@
 # miniature-invention
-demo of git
+demo of git qui se passe plutot bien
